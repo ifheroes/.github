@@ -8,12 +8,4 @@ Discord » **https://ifheroes.de/discord**
 
 Website » **https://ifheroes.de/**
 
-Status » **[https://ifheroes.de/](https://ifheroes.de/index.php?page=status)**
-
-
-## Social media
-
-💌 Twitter https://twitter.com/ifheroesserver
-
-📷 Instagram https://instagram.com/ifheroesserver
-
+Status » **[https://status.ifheroes.de/](https://status.ifheroes.de/)**
